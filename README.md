@@ -45,9 +45,11 @@
 
 ![exmpl1](img/exmpl1.gif)
 
-### 2. Удаление пароля
+### 2. Переход по ссылке
 
 ![exmpl2](img/exmpl2.gif)
-### 3. Переход по ссылке
+### 3. Удаление пароля
 
 ![exmpl3](img/exmpl3.gif)
+
+[Страничка на GitHub Pages](https://tallman653.github.io/LP--lab_2/)
